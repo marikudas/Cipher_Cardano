@@ -1,0 +1,6 @@
+D:\Shit\Suсks\Безпека програм та даних\Лаба №11\Laba11\Laba11\bin\Debug\Laba11.exe.config
+D:\Shit\Suсks\Безпека програм та даних\Лаба №11\Laba11\Laba11\bin\Debug\Laba11.exe
+D:\Shit\Suсks\Безпека програм та даних\Лаба №11\Laba11\Laba11\bin\Debug\Laba11.pdb
+D:\Shit\Suсks\Безпека програм та даних\Лаба №11\Laba11\Laba11\obj\Debug\Laba11.csprojResolveAssemblyReference.cache
+D:\Shit\Suсks\Безпека програм та даних\Лаба №11\Laba11\Laba11\obj\Debug\Laba11.exe
+D:\Shit\Suсks\Безпека програм та даних\Лаба №11\Laba11\Laba11\obj\Debug\Laba11.pdb
